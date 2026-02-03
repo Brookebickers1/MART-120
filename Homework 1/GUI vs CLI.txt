@@ -1,1 +1,6 @@
-
+(GUI) stands for a graphical user interface. It uses visual elements like windows, icons, and menus to interact with users. GUIs are pretty easy to understand and in order to use them you need minimal tech knowledge. They are also harder to “mess up” but are also typically slower for more advanced tasks. These qualities make GUIs what everyday computer users typically rely on.
+(CLI) stands for a command-line interface.Instead of using visuals. CLI has users type text commands to perform tasks. CLIs are typically more difficult for beginners, but they offer greater control and efficiency for advanced users. CLIs are also good for automation, but they are not very visual. 
+Differences between the two: 
+GUI: Visual, Mouse, Easier
+CLI: Text based, Keyboard, Powerful
+That being said, both have advantages and disadvantages. GUIs are user-friendly but limited, while CLIs are harder to learn but powerful. Basically both are very effective tools, but used for different situations. 
